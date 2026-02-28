@@ -42,17 +42,4 @@ We are actively maintaining this repository to support the research community.
 
 ---
 
-## 🎓 Citation
 
-If you use this dataset in your research, please cite our work:
-
-```bibtex
-@article{zhang2024pole,
-  title={Pole-NN: Few-shot classification of pole-like objects in lidar point clouds},
-  author={Zhang, Zezheng and Khoshelham, Kourosh and Shojaei, Davood},
-  journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-  volume={10},
-  pages={333--340},
-  year={2024},
-  publisher={Copernicus Publications G{\"o}ttingen, Germany}
-}
